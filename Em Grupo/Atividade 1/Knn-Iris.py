@@ -1,4 +1,4 @@
-
+# Equipe: Camila Lopes, Giovani Moutinho e Iago Wesley
 # coding: utf-8
 
 # In[19]:
