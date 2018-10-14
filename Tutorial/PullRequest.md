@@ -1,3 +1,6 @@
+![Workflow](https://i.imgur.com/bfH7v9Z.png)  
+
+
 ## Clonando o repositório
 
 * Caso o repositório para o qual deseja contribuir não seja o próprio e não possua permissão de colaborador utilize o botão de Fork no repositório para criar uma cópia em seu perfil  
@@ -39,7 +42,11 @@ Todas as mudanças relativas aquela nova funcionalidade que está sendo implemen
 
   </p></details>   
 
-<details>
-  <summary>Imagens</summary>
-  whatever
-</details>
+## Merge no Master
+Após o envio do PR fica a cargo do responsável pelo repositório conferir tudo que foi implementado e ter certeza que está tudo dentro dos padrões definidos para o projeto e funcionando. Ao receber um PR é possível conferir conflitos, os commits feitos, arquivos alterados e até mesmo fazer comentários sobre linhas específicas destes.
+  <details><summary>Clique para ver a Imagem</summary><p>
+
+   ![Merge](https://i.imgur.com/l9LpyL6.png) 
+
+  </p></details> 
+  
