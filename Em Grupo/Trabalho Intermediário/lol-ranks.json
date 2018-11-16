@@ -1,0 +1,9 @@
+﻿{
+  "BRONZE": {"V" : 1, "IV" : 2, "III" : 3, "II" : 4, "I" : 5},
+  "SILVER": {"V" : 6, "IV" : 7, "III" : 8, "II" : 9, "I" : 10},
+  "GOLD": {"V" : 11, "IV" : 12, "III" : 13, "II" : 14, "I" : 15},
+  "PLATINUM": {"V" : 16, "IV" : 17, "III" : 18, "II" : 19, "I" : 20},
+  "DIAMOND": {"V" : 21, "IV" : 22, "III" : 23, "II" : 24, "I" : 25},
+  "MASTER": {"I" : 26},
+  "CHALLENGER": {"I" : 27}
+}
