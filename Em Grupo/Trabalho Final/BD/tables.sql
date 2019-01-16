@@ -5,7 +5,7 @@ CREATE TABLE IF NOT EXISTS elo (
 
 CREATE TABLE IF NOT EXISTS campeao (
  campeaoId INTEGER NOT NULL,
- nome TEXT NOT NULL,
+ nome TEXT NOT NULL PRIMARY KEY,
  pickrate FLOAT,
  winrate FLOAT,
  posicao1 TEXT,
@@ -27,17 +27,21 @@ CREATE TABLE IF NOT EXISTS jogador (
 );
 
 CREATE TABLE IF NOT EXISTS campeao_jogador (
- campeaoId INTEGER NOT NULL,
+ campeaoNome TEXT NOT NULL,
+ campeaoPref INTEGER NOT NULL,
  summonerId INTEGER NOT NULL,
  partidas INTEGER NOT NULL,
+ vitorias INTEGER NOT NULL,
+ derrotas INTEGER NOT NULL,
  winrate INTEGER NOT NULL,
+ kda FLOAT NOT NULL,
  cs FLOAT NOT NULL,
  ouro INTEGER NOT NULL,
  danoCausado INTEGER NOT NULL,
  danoRecebido INTEGER NOT NULL,
-	PRIMARY KEY (summonerId, campeaoId),
+	PRIMARY KEY (summonerId, campeaoNome),
 	FOREIGN KEY (summonerId) REFERENCES jogador (summonerId),
-	FOREIGN KEY (campeaoId) REFERENCES campeao (campeaoId)
+	FOREIGN KEY (campeaoNome) REFERENCES campeao (nome)
 );
 
 
