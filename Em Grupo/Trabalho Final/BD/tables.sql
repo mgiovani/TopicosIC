@@ -57,17 +57,18 @@ CREATE TABLE IF NOT EXISTS partida (
  killsRed INTEGER NOT NULL,
  killsBlue INTEGER NOT NULL,
  ouroRed INTEGER NOT NULL,
- ouroBlue INTEGER NOT NULL
+ ouroBlue INTEGER NOT NULL,
 );
 
 CREATE TABLE IF NOT EXISTS jogador_partida (
  gameId INTEGER NOT NULL,
  summonerId  INTEGER NOT NULL,
- campeaoId INTEGER NOT NULL,
+ campeaoNome INTEGER NOT NULL,
  kdaPartida FLOAT NOT NULL,
  danoPartida INTEGER NOT NULL,
  wardsPartida INTEGER NOT NULL,
  csPartida INTEGER NOT NULL,
 	FOREIGN KEY (gameId) REFERENCES partida (gameId),
-	FOREIGN KEY (summonerId) REFERENCES jogador (summonerId)
+	FOREIGN KEY (summonerId) REFERENCES jogador (summonerId),
+	FOREIGN KEY (campeaoNome) REFERENCES campeao (nome)
 );
