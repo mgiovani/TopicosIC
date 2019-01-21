@@ -301,7 +301,6 @@ INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(418760,' HOW TO BLUE KAYN','Grandmaster',256,645,583,53,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(525040,' à very bad time','Grandmaster',256,622,606,51,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(2982516,' the Lehends girl','Grandmaster',255,1009,980,51,'','');
-INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(3799676,' chris mc','Unranked',,,,,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(18492148,' Um patinho ','Grandmaster',240,187,128,59,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(2904497,' BANDETTO ','Grandmaster',253,802,786,51,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(9660188,' greek yogurt','Grandmaster',253,278,253,52,'','');
@@ -1485,7 +1484,6 @@ INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(31821984,' Paulo Dybala','Diamond 1',60,365,311,54,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(477108,' Misor Wyvern II','Diamond 1',60,266,227,54,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(5539043,' sWe TheShyne ','Diamond 1',60,247,207,54,'','');
-INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(477108,'Misor Wyvern II','Diamond 1',60,266,227,54,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(1070129,' Jewish jojo','Diamond 1',60,237,210,53,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(8021008,' Motocicleta','Diamond 1',60,105,62,63,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(3771181,' Honorável SIG','Diamond 1',59,737,724,50,'','');
@@ -3966,7 +3964,6 @@ INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(1282505,' meTs','Diamond 2',0,454,452,50,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(9154821,' Lìght','Diamond 2',0,453,408,53,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(24681941,' PlaysWithGui','Diamond 2',12,453,431,51,'','');
-INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(24681941,'PlaysWithGui','Diamond 2',12,453,431,51,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(3888253,' essa é a sua vdd','Diamond 2',0,451,444,50,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(13732777,' DadPool','Diamond 2',0,447,430,51,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(13763658,' Sobe Sa','Diamond 2',0,445,394,53,'','');
@@ -4559,7 +4556,6 @@ INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(25900128,' 9876543210','Diamond 3',100,43,14,75,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(799296,' vida boa','Diamond 3',100,410,415,50,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4085175,' DFM Ryu','Diamond 3',99,235,217,52,'','');
-INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(799296,'vida boa','Diamond 3',100,410,415,50,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(7171708,' VoHiYo','Diamond 3',99,217,192,53,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(1492092,' Undead Blocker','Diamond 3',99,179,150,54,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(3190215,' MinekoMei','Diamond 3',99,131,79,62,'','');
@@ -5798,7 +5794,6 @@ INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(2086485,' e vdd ese bilete','Diamond 3',47,108,74,59,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(9657640,' Hi Foxes','Diamond 3',47,101,65,61,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4426123,' Boriszin','Diamond 3',47,72,52,58,'','');
-INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(38242283,' KALSITA SCRIPTDA','Unranked',,,,,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(9831291,' Senhor Rockzão','Diamond 3',47,61,44,58,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(20580832,' vinisin','Diamond 3',28,695,671,51,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(505679,' Pato Ingrato','Diamond 3',46,668,658,50,'','');
@@ -6439,7 +6434,6 @@ INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(27845088,' JudenKiJuzo','Diamond 3',31,321,291,52,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4650614,' Shiny Takuto','Diamond 3',31,315,262,55,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(2637521,' Grilomonstro','Diamond 3',0,300,241,55,'','');
-INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4650614,'Shiny Takuto','Diamond 3',31,315,262,55,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(2099398,' hitsuki','Diamond 3',47,299,267,53,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(1635406,' Shinobu Ni','Diamond 3',31,297,276,52,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(417273,' CARLOS É UM LIXO','Diamond 3',31,242,207,54,'','');
@@ -6842,7 +6836,6 @@ INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(2141680,' Hyouku','Diamond 3',20,719,722,50,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(1670139,' Vivendopedra','Diamond 3',20,717,701,51,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(5540927,' ProjectDamage','Diamond 3',2,683,673,50,'','');
-INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(38020935,' Zuki','Unranked',,,,,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(14691486,' shaconario','Diamond 3',20,640,601,52,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(26520450,' Amber Heard s2','Diamond 3',20,597,552,52,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(8375634,' Thuzin','Diamond 3',20,549,576,49,'','');
@@ -7091,7 +7084,6 @@ INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4059128,' xl Rippley lx','Diamond 3',17,406,397,51,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(14552967,' Picolé De Pombo','Diamond 3',17,405,407,50,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(11068261,' Carewulf','Diamond 3',34,397,390,50,'','');
-INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(37641014,' Sander','Unranked',,,,,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(550266,' Vivo Lixu Panu','Diamond 3',14,368,343,52,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4871144,' Ahri de Favela','Diamond 3',17,365,366,50,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(20522697,' Toim XD FON TRAB','Diamond 3',17,364,330,52,'','');
@@ -7278,7 +7270,6 @@ INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(27820128,' Suppõrt','Diamond 3',16,95,39,71,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(13374541,' Later Gator','Diamond 3',16,91,82,53,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4154087,' GLD Noah','Diamond 3',16,83,44,65,'','');
-INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(750337,' Ravel','Unranked',,,,,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(6745561,' FH5 miinaTT','Diamond 3',16,77,50,61,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(5893941,' ChrisMataTuto','Diamond 3',16,71,52,58,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(955266,' Seryu','Diamond 3',16,67,65,51,'','');
@@ -10342,7 +10333,6 @@ INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(2874529,' Vínes','Diamond 4',96,391,379,51,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4162869,' Adatihara','Diamond 4',80,349,354,50,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(13793085,' Hoshi me venceu','Diamond 4',80,342,335,51,'','');
-INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(34171911,' i tried a lot ','Diamond 4',99,346,333,51,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(2464768,' Gekko','Diamond 4',78,333,310,52,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(483919,' Ravy Rafael','Diamond 4',80,326,323,50,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(449387,' Eragon','Diamond 4',80,324,316,51,'','');
@@ -10397,7 +10387,6 @@ INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(6891408,' Bolo audacioso','Diamond 4',79,235,202,54,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4199516,' LNBC Moraes','Diamond 4',100,232,227,51,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(1947525,' Cool do Mario','Diamond 4',79,197,208,49,'','');
-INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4199516,'LNBC Moraes','Diamond 4',100,232,227,51,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(23741401,' Daiban','Diamond 4',79,218,202,52,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(585592,' LëeSïn','Diamond 4',43,195,191,51,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(1498241,' robson','Diamond 4',58,177,164,52,'','');
@@ -10496,7 +10485,6 @@ INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(6657082,' Metrollman','Diamond 4',91,344,331,51,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(636370,' kraw3','Diamond 4',77,343,346,50,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(497404,' Lipelm','Diamond 4',77,336,316,52,'','');
-INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(636370,'kraw3','Diamond 4',77,343,346,50,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(2001219,' s1rpent','Diamond 4',27,330,308,52,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(9221439,' TYT HalfBrother','Diamond 4',77,326,283,54,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(9843000,' bibi1s7h8jkg','Diamond 4',87,303,325,48,'','');
@@ -12239,7 +12227,6 @@ INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(483136,' Lina','Diamond 4',95,286,299,49,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(1164023,' GnikEgos','Diamond 4',75,270,248,52,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(3557701,' Waayzer','Diamond 4',60,269,252,52,'','');
-INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(21862991,' draghero','Diamond 4',58,265,243,52,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(10183890,' só no habbo ','Diamond 4',60,263,268,50,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(9091572,' Nidalee Hentai','Diamond 4',42,260,264,50,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(21956117,' FxT Fã Do Ranger','Diamond 4',60,253,232,52,'','');
@@ -12390,7 +12377,6 @@ INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(18501023,' Märco','Diamond 4',59,221,162,58,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(6060820,' XxNEGODOIDOxX','Diamond 4',59,216,200,52,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(7221844,' RIP HEINEKEN','Diamond 4',59,212,185,53,'','');
-INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(3141067,' ITS OVER 9OOO','Unranked',,,,,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4716152,' llTATATATAll','Diamond 4',59,199,136,59,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(5546472,' Takuya Kanbara','Diamond 4',59,192,184,51,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(35880517,' Frenetíca','Diamond 4',59,186,153,55,'','');
@@ -13556,7 +13542,6 @@ INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(8100151,' DNT LaGrave','Diamond 4',70,119,83,59,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(489368,' Kchefe','Diamond 4',31,113,109,51,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4424931,' Haruto','Diamond 4',50,112,107,51,'','');
-INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(37661218,' Draker','Unranked',,,,,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4067496,' Vakku','Diamond 4',50,111,101,52,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(553399,' Rengar 1x10','Diamond 4',50,110,79,58,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(635583,' Coldzera Style','Diamond 4',50,109,76,59,'','');
@@ -14212,7 +14197,6 @@ INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(3212142,' Ricerak','Diamond 4',45,270,253,52,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(443525,' Neelo','Diamond 4',45,257,234,52,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(6662745,' GDS CLeitu Rasta','Diamond 4',45,257,236,52,'','');
-INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(5623888,' Rick Otaku GOD','Diamond 4',46,254,254,50,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(16173570,' PensaEmUmNomeFod','Diamond 4',45,252,235,52,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4009936,' TNC Y4Shir0','Diamond 4',45,251,249,50,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(15774165,' lFarofa','Diamond 4',45,250,239,51,'','');
@@ -15448,7 +15432,6 @@ INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(2793078,' 5 1 ','Diamond 4',37,64,40,62,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(30626297,' Zurgizito2','Diamond 4',37,63,44,59,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(2973010,' lNyck','Diamond 4',37,62,39,61,'','');
-INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4904757,'Süpport','Diamond 4',37,81,61,57,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(472055,' Cezinha','Diamond 4',37,61,56,52,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(1520053,' kiuzinho','Diamond 4',37,61,49,55,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(5208901,' epsykhos','Diamond 4',37,50,37,57,'','');
@@ -15459,7 +15442,6 @@ INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(30701342,' Mayumí','Diamond 4',36,1064,1061,50,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4593609,' ZedãoXD','Diamond 4',54,963,1007,49,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(16395343,' hUN','Diamond 4',20,782,807,49,'','');
-INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(37825571,' NA VAYNE','Unranked',,,,,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4174133,' Moon Vermilion ','Diamond 4',18,714,719,50,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(27502631,' ehss','Diamond 4',36,657,682,49,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(17261947,' rx o desafiante','Diamond 4',36,657,616,52,'','');
@@ -17549,7 +17531,6 @@ INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(3514231,' Abedess','Diamond 4',4,238,210,53,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(484921,' Chacamina','Diamond 4',0,234,241,49,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4613153,' xSplack','Diamond 4',26,226,218,51,'','');
-INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(37424059,' MID QUE N MIA','Unranked',,,,,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(21502986,' Hong Si Young','Diamond 4',26,223,185,55,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4310541,' Hangyu','Diamond 4',11,217,206,51,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(1313694,' Hestia','Diamond 4',26,216,190,53,'','');
@@ -18220,7 +18201,6 @@ INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(2876971,' wade12','Diamond 4',22,121,141,46,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(2879136,' DesIigado','Diamond 4',22,117,105,53,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4520947,' Eu So Me Fodo Af','Diamond 4',22,116,105,52,'','');
-INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4198599,'VaIente','Diamond 4',22,121,84,59,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(29120131,' PO ENCIMA','Diamond 4',22,113,106,52,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4560481,' MantFeren','Diamond 4',22,113,85,57,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(18855005,' ASP Black XZ','Diamond 4',22,112,90,55,'','');
@@ -19922,7 +19902,6 @@ INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(540256,' DeltaregII','Diamond 4',17,123,100,55,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4498708,' Awren','Diamond 4',17,123,119,51,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4134002,' EvertonKing1','Diamond 4',17,122,84,59,'','');
-INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(27761457,' Eu como bea','Unranked',,,,,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(3808639,' BesT Heimer KR','Diamond 4',17,121,95,56,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(3257230,' Luminä','Diamond 4',17,121,102,54,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(9813297,' deixa sup ae kk','Diamond 4',17,121,89,58,'','');
@@ -22767,7 +22746,6 @@ INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(3251432,' Impala','Diamond 4',7,59,52,53,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(8713005,' SORRlZO RONALDO','Diamond 4',7,44,44,50,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(2611237,' Renatinho do RJ','Diamond 4',9,824,821,50,'','');
-INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(481114,' xHULKx','Diamond 4',6,820,830,50,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(7740209,' TRMBLN','Diamond 4',6,743,721,51,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(26882433,' LL Stylish Br 21','Diamond 4',6,709,668,51,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(5743461,' Soyth','Diamond 4',6,649,617,51,'','');
@@ -22797,7 +22775,6 @@ INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(1991137,' Ramborger','Diamond 4',24,381,394,49,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(18706160,' The BloodOranges','Diamond 4',6,374,364,51,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(14592464,' TO TIRANO ONDA','Diamond 4',6,371,364,50,'','');
-INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(37879284,' Scorpion3','Unranked',,,,,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(29912394,' Tilterella','Diamond 4',6,357,320,53,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(678075,' COSCU','Diamond 4',6,350,338,51,'','');
 INSERT INTO jogador('summonerId', 'nick', 'elo', 'pdl', 'vitorias', 'derrotas', 'winrate', 'posicao1', 'posicao2') VALUES(4165920,' Tio Hélio','Diamond 4',6,349,343,50,'','');
