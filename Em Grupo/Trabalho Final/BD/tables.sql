@@ -57,7 +57,7 @@ CREATE TABLE IF NOT EXISTS partida (
  killsRed INTEGER NOT NULL,
  killsBlue INTEGER NOT NULL,
  ouroRed INTEGER NOT NULL,
- ouroBlue INTEGER NOT NULL,
+ ouroBlue INTEGER NOT NULL
 );
 
 CREATE TABLE IF NOT EXISTS jogador_partida (
