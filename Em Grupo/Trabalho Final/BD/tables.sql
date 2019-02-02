@@ -48,26 +48,40 @@ CREATE TABLE IF NOT EXISTS campeao_jogador (
 CREATE TABLE IF NOT EXISTS partida (
  gameId INTEGER PRIMARY KEY,
  vitoria INTEGER NOT NULL,
- baroesRed INTEGER NOT NULL,
- baroesBlue INTEGER NOT NULL,
- dragoesRed INTEGER NOT NULL,
- dragoesBlue INTEGER NOT NULL,
- torresRed INTEGER NOT NULL,
- torresBlue INTEGER NOT NULL,
+ firstBlood INTEGER NOT NULL,
+ firstTower INTEGER NOT NULL,
+ firstInhibitor INTEGER NOT NULL,
+ firstBaron INTEGER NOT NULL,
+ firstDragon INTEGER NOT NULL,
+ firstRiftHerald INTEGER NOT NULL,
+ t2_baronKills INTEGER NOT NULL,
+ t1_baronKills INTEGER NOT NULL,
+ t2_dragonKills INTEGER NOT NULL,
+ t1_dragonKills INTEGER NOT NULL,
+ t2_riftHeraldKills INTEGER NOT NULL,
+ t1_riftHeraldKills INTEGER NOT NULL,
+ t2_towerKills INTEGER NOT NULL,
+ t1_towerKills INTEGER NOT NULL,
+ t2_inhibitorKills INTEGER NOT NULL,
+ t1_inhibitorKills INTEGER NOT NULL,
  killsRed INTEGER NOT NULL,
  killsBlue INTEGER NOT NULL,
- ouroRed INTEGER NOT NULL,
- ouroBlue INTEGER NOT NULL
+ goldRed INTEGER NOT NULL,
+ goldBlue INTEGER NOT NULL
 );
+
+ 
 
 CREATE TABLE IF NOT EXISTS jogador_partida (
  gameId INTEGER NOT NULL,
+ time INTEGER NOT NULL,
  summonerId  INTEGER NOT NULL,
- campeaoId INTEGER NOT NULL,
+ campeaoNome INTEGER NOT NULL,
  kdaPartida FLOAT NOT NULL,
  danoPartida INTEGER NOT NULL,
  wardsPartida INTEGER NOT NULL,
  csPartida INTEGER NOT NULL,
 	FOREIGN KEY (gameId) REFERENCES partida (gameId),
-	FOREIGN KEY (summonerId) REFERENCES jogador (summonerId)
+	FOREIGN KEY (summonerId) REFERENCES jogador (summonerId),
+	FOREIGN KEY (campeaoNome) REFERENCES campeao (nome)
 );
